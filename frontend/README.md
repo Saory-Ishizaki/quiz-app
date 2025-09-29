@@ -1,70 +1,115 @@
-# Getting Started with Create React App
+🎮 Quem Acerta, Fatura!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Quiz de Educação Financeira com níveis de dificuldade e ranking em tempo real.
 
-## Available Scripts
+📌 Funcionalidades
 
-In the project directory, you can run:
+3 níveis de dificuldade: Fácil, Moderado, Difícil.
 
-### `npm start`
+Cada nível tem 50 perguntas no banco (são sorteadas 10 para cada jogador).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Perguntas não se repetem em uma mesma partida.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Resposta correta aparece em verde e errada em vermelho.
 
-### `npm test`
+Sistema de pontuação com peso por nível (Fácil = 1, Moderado = 2, Difícil = 3).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Exibe resumo de acertos/erros ao final de cada nível.
 
-### `npm run build`
+Ranking em tempo real com outros jogadores (via WebSocket / Socket.IO).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Tema visual em verde e dourado (dinheiro + ouro).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Animação com moedas caindo no final do jogo.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🛠️ Tecnologias
 
-### `npm run eject`
+Frontend: React + Socket.IO Client
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Backend: Node.js + Express + Socket.IO
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Banco de dados: Arquivo JSON para ranking (ranking.json)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Estilo: CSS com elementos vetoriais (moedas, roleta, dourado/verde)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🚀 Rodando localmente
+1. Clonar repositório
+git clone https://github.com/Saory-Massakydo/quiz-app.git
+cd quiz-app
 
-## Learn More
+2. Rodar o Backend
+cd backend
+npm install
+node index.js
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Backend vai rodar em http://localhost:5000
 
-### Code Splitting
+3. Rodar o Frontend
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Em outro terminal:
 
-### Analyzing the Bundle Size
+cd frontend
+npm install
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+Frontend vai rodar em http://localhost:3000
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+🌍 Deploy (para jogar com amigos)
+Backend (Node.js + Socket.IO)
 
-### Advanced Configuration
+Criar conta no Render
+ ou Railway
+.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Criar um novo Web Service e importar a pasta backend/.
 
-### Deployment
+Configurar:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Start command:
 
-### `npm run build` fails to minify
+node index.js
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Porta: 5000 (Render define PORT automaticamente → no código já está ajustado).
+
+Pegar a URL pública, algo como:
+
+https://quiz-backend.onrender.com
+
+Frontend (React)
+
+Criar conta no Vercel
+ ou Netlify
+.
+
+Criar um projeto e importar a pasta frontend/.
+
+Antes do deploy, editar src/api.js e trocar:
+
+const BASE_URL = "http://localhost:5000";
+
+
+para:
+
+const BASE_URL = "https://quiz-backend.onrender.com"; // sua URL do backend
+
+
+Deploy → Vercel/Netlify vai gerar um link público como:
+
+https://quem-acerta-fatura.vercel.app
+
+✅ Pronto!
+
+Agora qualquer pessoa pode acessar o link e jogar.
+O ranking vai funcionar em tempo real entre todos os jogadores conectados.
+
+👥 Créditos
+
+Acadêmicos de Contabilidade - UNAMA (criação do conteúdo)
+
+Saory M. Ishizaki (Acadêmica de Ciência da Computação - UNINTER) — desenvolvimento
+
+✨ Bom jogo!
+📌 “Quem Acerta, Fatura!” — Aprender sobre finanças nunca foi tão divertido!
