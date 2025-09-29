@@ -1,0 +1,1808 @@
+{
+  "facil": [
+    {
+      "id": 1,
+      "pergunta": "Qual é o primeiro passo para organizar as finanças pessoais?",
+      "opcoes": [
+        "A) Anotar receitas e despesas",
+        "B) Fazer empréstimo",
+        "C) Usar cartão de crédito",
+        "D) Comprar cofre"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 2,
+      "pergunta": "O que significa viver dentro do orçamento?",
+      "opcoes": [
+        "A) Gastar menos ou igual ao que ganha",
+        "B) Gastar mais do que ganha",
+        "C) Nunca gastar",
+        "D) Pedir empréstimo"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual destes é um exemplo de gasto fixo?",
+      "opcoes": [
+        "A) Aluguel",
+        "B) Cinema",
+        "C) Viagem",
+        "D) Roupas"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual destes é um exemplo de gasto variável?",
+      "opcoes": [
+        "A) Conta de luz",
+        "B) Aluguel",
+        "C) Condomínio",
+        "D) Seguro"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 5,
+      "pergunta": "O que é uma planilha financeira?",
+      "opcoes": [
+        "A) Ferramenta de controle de gastos",
+        "B) Cartão digital",
+        "C) Imposto",
+        "D) Aplicativo de jogos"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual destes é uma necessidade básica?",
+      "opcoes": [
+        "A) Alimentação",
+        "B) Videogame",
+        "C) Viagem internacional",
+        "D) Novo celular"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 7,
+      "pergunta": "Qual destes é um desejo?",
+      "opcoes": [
+        "A) Água",
+        "B) Roupas de marca",
+        "C) Conta de luz",
+        "D) Aluguel"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 8,
+      "pergunta": "O que significa consumo consciente?",
+      "opcoes": [
+        "A) Comprar sem pensar",
+        "B) Planejar compras necessárias",
+        "C) Usar sempre crédito",
+        "D) Comprar tudo parcelado"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 9,
+      "pergunta": "Qual é a prioridade em um orçamento?",
+      "opcoes": [
+        "A) Cinema",
+        "B) Alimentação",
+        "C) Viagens",
+        "D) Lazer"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 10,
+      "pergunta": "O que é um gasto supérfluo?",
+      "opcoes": [
+        "A) Aluguel",
+        "B) Cinema todo dia",
+        "C) Conta de água",
+        "D) Mercado"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 11,
+      "pergunta": "O que é poupar?",
+      "opcoes": [
+        "A) Gastar mais",
+        "B) Guardar dinheiro",
+        "C) Pedir empréstimo",
+        "D) Perder dinheiro"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 12,
+      "pergunta": "Qual o principal objetivo de guardar dinheiro?",
+      "opcoes": [
+        "A) Gastar no shopping",
+        "B) Ter segurança em imprevistos",
+        "C) Comprar mais crédito",
+        "D) Aumentar dívidas"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 13,
+      "pergunta": "O que é uma reserva de emergência?",
+      "opcoes": [
+        "A) Dinheiro em ações",
+        "B) Dinheiro para lazer",
+        "C) Dinheiro guardado para imprevistos",
+        "D) Dinheiro para viagens"
+      ],
+      "resposta": "C",
+      "peso": 1
+    },
+    {
+      "id": 14,
+      "pergunta": "Guardar um pouco todo mês é chamado de:",
+      "opcoes": [
+        "A) Gasto extra",
+        "B) Dívida",
+        "C) Poupança",
+        "D) Empréstimo"
+      ],
+      "resposta": "C",
+      "peso": 1
+    },
+    {
+      "id": 15,
+      "pergunta": "Qual destes ajuda a economizar?",
+      "opcoes": [
+        "A) Usar só crédito",
+        "B) Comprar tudo no impulso",
+        "C) Comparar preços",
+        "D) Ignorar orçamento"
+      ],
+      "resposta": "C",
+      "peso": 1
+    },
+    {
+      "id": 16,
+      "pergunta": "O que acontece se não pagar a fatura do cartão?",
+      "opcoes": [
+        "A) Recebe desconto",
+        "B) Nada",
+        "C) Cobra juros e multa",
+        "D) Dívida some"
+      ],
+      "resposta": "C",
+      "peso": 1
+    },
+    {
+      "id": 17,
+      "pergunta": "Qual a diferença entre cartão de crédito e débito?",
+      "opcoes": [
+        "A) Crédito não tem limite",
+        "B) Débito gera fatura",
+        "C) Crédito paga depois",
+        "D) Não há diferença"
+      ],
+      "resposta": "C",
+      "peso": 1
+    },
+    {
+      "id": 18,
+      "pergunta": "O que significa pagar à vista?",
+      "opcoes": [
+        "A) Pagar com juros",
+        "B) Pagar parcelado",
+        "C) Pagar no ato da compra",
+        "D) Pagar depois"
+      ],
+      "resposta": "C",
+      "peso": 1
+    },
+    {
+      "id": 19,
+      "pergunta": "O que significa parcelar uma compra?",
+      "opcoes": [
+        "A) Dividir o pagamento em partes",
+        "B) Pagar mais barato",
+        "C) Receber desconto",
+        "D) Pagar em dinheiro"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 20,
+      "pergunta": "Se gastar mais do que ganha, o que acontece?",
+      "opcoes": [
+        "A) Fica endividado",
+        "B) Economiza",
+        "C) Aumenta renda",
+        "D) Nada"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 21,
+      "pergunta": "O que significa PIX?",
+      "opcoes": [
+        "A) Pagamento instantâneo",
+        "B) Cartão virtual",
+        "C) Investimento",
+        "D) Empréstimo"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 22,
+      "pergunta": "Qual é a principal vantagem do PIX?",
+      "opcoes": [
+        "A) Transferência imediata",
+        "B) Pagar mais juros",
+        "C) Demora dias",
+        "D) Cobra taxa alta"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 23,
+      "pergunta": "O que é boleto bancário?",
+      "opcoes": [
+        "A) Documento para pagamento",
+        "B) Cartão de débito",
+        "C) Conta digital",
+        "D) Investimento"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 24,
+      "pergunta": "Qual destes é um meio de pagamento digital?",
+      "opcoes": [
+        "A) PIX",
+        "B) Cheque",
+        "C) Dinheiro físico",
+        "D) Ouro"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 25,
+      "pergunta": "O que é uma conta digital?",
+      "opcoes": [
+        "A) Conta em banco online",
+        "B) Carteira de papel",
+        "C) Conta em supermercado",
+        "D) Conta de luz"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 26,
+      "pergunta": "O que é renda?",
+      "opcoes": [
+        "A) Dinheiro que entra",
+        "B) Dinheiro que sai",
+        "C) Imposto",
+        "D) Despesa"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 27,
+      "pergunta": "Exemplo de renda:",
+      "opcoes": [
+        "A) Aluguel pago",
+        "B) Salário",
+        "C) Conta de água",
+        "D) Netflix"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 28,
+      "pergunta": "Exemplo de renda extra:",
+      "opcoes": [
+        "A) Conta de luz",
+        "B) Vender bolo",
+        "C) Netflix",
+        "D) Seguro"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 29,
+      "pergunta": "O que é salário mínimo?",
+      "opcoes": [
+        "A) Valor máximo do salário",
+        "B) Menor valor pago por lei",
+        "C) Imposto",
+        "D) Investimento"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 30,
+      "pergunta": "Qual é a importância da renda?",
+      "opcoes": [
+        "A) Aumenta dívidas",
+        "B) Permite pagar despesas",
+        "C) Cria impostos",
+        "D) Diminui orçamento"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 31,
+      "pergunta": "O que é IPTU?",
+      "opcoes": [
+        "A) Conta de luz",
+        "B) Imposto sobre imóvel",
+        "C) Imposto sobre carro",
+        "D) Imposto de renda"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 32,
+      "pergunta": "O que é IPVA?",
+      "opcoes": [
+        "A) Conta de internet",
+        "B) Imposto sobre veículos",
+        "C) Seguro de carro",
+        "D) Imposto sobre imóveis"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 33,
+      "pergunta": "O que acontece se não pagar imposto obrigatório?",
+      "opcoes": [
+        "A) Nada",
+        "B) Multa e juros",
+        "C) Desconto",
+        "D) Perda de salário"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 34,
+      "pergunta": "O que é conta de consumo?",
+      "opcoes": [
+        "A) Salário",
+        "B) Luz, água, internet",
+        "C) Imposto",
+        "D) Investimento"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 35,
+      "pergunta": "Exemplo de despesa essencial:",
+      "opcoes": [
+        "A) Show",
+        "B) Cinema",
+        "C) Viagem",
+        "D) Conta de água"
+      ],
+      "resposta": "D",
+      "peso": 1
+    },
+    {
+      "id": 36,
+      "pergunta": "O que significa comparar preços?",
+      "opcoes": [
+        "A) Não pensar antes de gastar",
+        "B) Comprar qualquer coisa",
+        "C) Usar só crédito",
+        "D) Escolher a opção mais vantajosa"
+      ],
+      "resposta": "D",
+      "peso": 1
+    },
+    {
+      "id": 37,
+      "pergunta": "O que acontece quando há promoção?",
+      "opcoes": [
+        "A) Menos produtos",
+        "B) Preço aumenta",
+        "C) Mais impostos",
+        "D) Preço reduzido"
+      ],
+      "resposta": "D",
+      "peso": 1
+    },
+    {
+      "id": 38,
+      "pergunta": "O que significa trocar dinheiro por produto?",
+      "opcoes": [
+        "A) Imposto",
+        "B) Venda",
+        "C) Investimento",
+        "D) Compra"
+      ],
+      "resposta": "D",
+      "peso": 1
+    },
+    {
+      "id": 39,
+      "pergunta": "O que significa trocar produto por dinheiro?",
+      "opcoes": [
+        "A) Despesa",
+        "B) Compra",
+        "C) Empréstimo",
+        "D) Venda"
+      ],
+      "resposta": "D",
+      "peso": 1
+    },
+    {
+      "id": 40,
+      "pergunta": "Qual destas escolhas ajuda nas finanças?",
+      "opcoes": [
+        "A) Nunca poupar",
+        "B) Comprar por impulso",
+        "C) Usar crédito sempre",
+        "D) Planejar compras"
+      ],
+      "resposta": "D",
+      "peso": 1
+    },
+    {
+      "id": 41,
+      "pergunta": "O que é um aplicativo de banco?",
+      "opcoes": [
+        "A) Loja virtual",
+        "B) Jogo",
+        "C) Imposto",
+        "D) Ferramenta para acessar conta"
+      ],
+      "resposta": "D",
+      "peso": 1
+    },
+    {
+      "id": 42,
+      "pergunta": "O que é internet banking?",
+      "opcoes": [
+        "A) Pix em papel",
+        "B) Conta física",
+        "C) Cartão de crédito",
+        "D) Acesso ao banco pela internet"
+      ],
+      "resposta": "D",
+      "peso": 1
+    },
+    {
+      "id": 43,
+      "pergunta": "O que é senha bancária?",
+      "opcoes": [
+        "A) Cartão físico",
+        "B) Nome do banco",
+        "C) Número da conta",
+        "D) Código de segurança"
+      ],
+      "resposta": "D",
+      "peso": 1
+    },
+    {
+      "id": 44,
+      "pergunta": "O que significa não compartilhar senha?",
+      "opcoes": [
+        "A) Cria dívidas",
+        "B) Aumenta renda",
+        "C) Diminui gastos",
+        "D) Proteção contra fraudes"
+      ],
+      "resposta": "D",
+      "peso": 1
+    },
+    {
+      "id": 45,
+      "pergunta": "O que é cartão de débito?",
+      "opcoes": [
+        "A) Imposto",
+        "B) Pagamento futuro",
+        "C) Empréstimo",
+        "D) Pagamento direto da conta"
+      ],
+      "resposta": "D",
+      "peso": 1
+    },
+    {
+      "id": 46,
+      "pergunta": "Por que anotar gastos é útil?",
+      "opcoes": [
+        "A) Para esquecer despesas futuras",
+        "B) Para controlar e identificar para onde o dinheiro vai",
+        "C) Para aumentar o gasto mensal",
+        "D) Para evitar pagar contas"
+      ],
+      "resposta": "B",
+      "peso": 1
+    },
+    {
+      "id": 47,
+      "pergunta": "O que é credor?",
+      "opcoes": [
+        "A) Quem empresta dinheiro",
+        "B) Quem deve pagar",
+        "C) Um tipo de imposto",
+        "D) Uma taxa bancária"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 48,
+      "pergunta": "O que é meta de curto prazo?",
+      "opcoes": [
+        "A) Objetivo financeiro com prazo de até 1 ano",
+        "B) Plano para aposentadoria",
+        "C) Investimento de longo prazo",
+        "D) Despesa fixa mensal"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 49,
+      "pergunta": "O que é financiamento?",
+      "opcoes": [
+        "A) Empréstimo para compra de bens de alto valor (ex.: casa, carro)",
+        "B) Doação sem obrigação",
+        "C) Presente financeiro",
+        "D) Seguro obrigatório"
+      ],
+      "resposta": "A",
+      "peso": 1
+    },
+    {
+      "id": 50,
+      "pergunta": "O que é uma meta financeira?",
+      "opcoes": [
+        "A) Um objetivo com prazo e valor definidos",
+        "B) Uma conta bancária especial",
+        "C) Uma taxa cobrada pelo governo",
+        "D) Um tipo de cartão"
+      ],
+      "resposta": "A",
+      "peso": 1
+    }
+  ],
+  "moderado": [
+    {
+      "id": 1,
+      "pergunta": "Qual é a principal função de um orçamento pessoal?",
+      "opcoes": [
+        "A) Evitar o pagamento de impostos",
+        "B) Controlar receitas e despesas",
+        "C) Aumentar automaticamente os rendimentos",
+        "D) Eliminar todos os gastos"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 2,
+      "pergunta": "O que significa “gastar menos do que se ganha”?",
+      "opcoes": [
+        "A) Endividamento",
+        "B) Equilíbrio financeiro",
+        "C) Déficit orçamentário",
+        "D) Renda passiva"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual é a diferença entre ativo e passivo, segundo a educação financeira?",
+      "opcoes": [
+        "A) Ativo gera receita; passivo gera despesa",
+        "B) Ativo é dívida; passivo é patrimônio",
+        "C) Ativo é gasto; passivo é poupança",
+        "D) Não existe diferença"
+      ],
+      "resposta": "A",
+      "peso": 2
+    },
+    {
+      "id": 4,
+      "pergunta": "Quando falamos em juros compostos, significa que:",
+      "opcoes": [
+        "A) Os juros incidem apenas sobre o valor inicial",
+        "B) Os juros incidem sobre juros acumulados",
+        "C) Não existe diferença para juros simples",
+        "D) São usados apenas em empréstimos"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 5,
+      "pergunta": "Um fundo de emergência deve cobrir em média:",
+      "opcoes": [
+        "A) 1 mês de despesas fixas",
+        "B) 3 a 6 meses de despesas fixas",
+        "C) 12 meses de salário bruto",
+        "D) Apenas dívidas bancárias"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 6,
+      "pergunta": "Investir em renda variável significa:",
+      "opcoes": [
+        "A) Garantia de retorno fixo",
+        "B) Ausência de risco",
+        "C) Possibilidade de ganhos ou perdas",
+        "D) Rentabilidade igual à poupança"
+      ],
+      "resposta": "C",
+      "peso": 2
+    },
+    {
+      "id": 7,
+      "pergunta": "O cartão de crédito é considerado:",
+      "opcoes": [
+        "A) Uma forma de investimento",
+        "B) Um meio de pagamento e possível dívida",
+        "C) Um ativo financeiro",
+        "D) Uma aplicação em renda fixa"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 8,
+      "pergunta": "Qual é o imposto que incide sobre aplicações financeiras de renda fixa no Brasil?",
+      "opcoes": [
+        "A) ISS",
+        "B) ICMS",
+        "C) IR (Imposto de Renda)",
+        "D) IPTU"
+      ],
+      "resposta": "C",
+      "peso": 2
+    },
+    {
+      "id": 9,
+      "pergunta": "O que significa diversificação de investimentos?",
+      "opcoes": [
+        "A) Colocar todo o dinheiro em um único ativo",
+        "B) Investir em diferentes ativos para reduzir riscos",
+        "C) Comprar somente ações",
+        "D) Não investir nada"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 10,
+      "pergunta": "Qual é a melhor forma de usar o 13º salário?",
+      "opcoes": [
+        "A) Gastar integralmente em lazer",
+        "B) Quitar dívidas ou investir",
+        "C) Comprar bens de consumo supérfluos",
+        "D) Aplicar apenas em poupança"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 11,
+      "pergunta": "Qual índice mede a inflação oficial no Brasil?",
+      "opcoes": [
+        "A) IGPM",
+        "B) IPCA",
+        "C) SELIC",
+        "D) PIB"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 12,
+      "pergunta": "Se a taxa Selic sobe, em geral:",
+      "opcoes": [
+        "A) Os juros de empréstimos caem",
+        "B) A poupança rende menos",
+        "C) Os investimentos de renda fixa rendem mais",
+        "D) O dólar desvaloriza automaticamente"
+      ],
+      "resposta": "C",
+      "peso": 2
+    },
+    {
+      "id": 13,
+      "pergunta": "O que é renda passiva?",
+      "opcoes": [
+        "A) Trabalho extra com pagamento mensal",
+        "B) Ganhos sem necessidade de trabalho ativo",
+        "C) Um tipo de despesa fixa",
+        "D) Dinheiro emprestado a terceiros"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 14,
+      "pergunta": "Qual dessas opções é exemplo de despesa variável?",
+      "opcoes": [
+        "A) Aluguel",
+        "B) Conta de internet",
+        "C) Supermercado",
+        "D) Prestação de financiamento"
+      ],
+      "resposta": "C",
+      "peso": 2
+    },
+    {
+      "id": 15,
+      "pergunta": "Qual é a prioridade para quem está endividado?",
+      "opcoes": [
+        "A) Aumentar os investimentos",
+        "B) Quitar dívidas com juros mais altos",
+        "C) Comprar bens à vista",
+        "D) Abrir uma empresa"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 16,
+      "pergunta": "O que representa a taxa Selic?",
+      "opcoes": [
+        "A) A inflação acumulada no ano",
+        "B) A taxa básica de juros da economia",
+        "C) O câmbio oficial do Banco Central",
+        "D) A taxa de rentabilidade da poupança"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 17,
+      "pergunta": "Em uma compra parcelada no cartão de crédito, o que deve ser observado?",
+      "opcoes": [
+        "A) Se há juros embutidos",
+        "B) Apenas a quantidade de parcelas",
+        "C) Se o limite do cartão será liberado",
+        "D) Apenas o valor mínimo da fatura"
+      ],
+      "resposta": "A",
+      "peso": 2
+    },
+    {
+      "id": 18,
+      "pergunta": "Qual a principal desvantagem de usar o cheque especial?",
+      "opcoes": [
+        "A) Facilidade de acesso",
+        "B) Juros muito altos",
+        "C) Prazo ilimitado",
+        "D) Ausência de IOF"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 19,
+      "pergunta": "O que significa “custo de oportunidade”?",
+      "opcoes": [
+        "A) Valor que se perde ao escolher uma opção em vez de outra",
+        "B) Lucro obtido em um investimento",
+        "C) Gastos fixos mensais",
+        "D) Salário líquido"
+      ],
+      "resposta": "A",
+      "peso": 2
+    },
+    {
+      "id": 20,
+      "pergunta": "Qual é a ordem correta para organizar as finanças pessoais?",
+      "opcoes": [
+        "A) Gastar, investir e depois pagar dívidas",
+        "B) Pagar dívidas, montar reserva e depois investir",
+        "C) Investir tudo antes de pagar dívidas",
+        "D) Comprar bens primeiro, depois investir"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 21,
+      "pergunta": "Qual é a função da reserva de emergência?",
+      "opcoes": [
+        "A) Comprar bens de alto valor",
+        "B) Evitar dívidas em situações inesperadas",
+        "C) Garantir aposentadoria",
+        "D) Aumentar a renda mensal fixa"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 22,
+      "pergunta": "O que significa IOF?",
+      "opcoes": [
+        "A) Imposto sobre Operações Financeiras",
+        "B) Imposto sobre Ofertas Fixas",
+        "C) Índice Oficial Financeiro",
+        "D) Imposto sobre Obrigações Federais"
+      ],
+      "resposta": "A",
+      "peso": 2
+    },
+    {
+      "id": 23,
+      "pergunta": "Qual destes é considerado um investimento de renda fixa?",
+      "opcoes": [
+        "A) Ações",
+        "B) Tesouro Direto Selic",
+        "C) Fundos imobiliários",
+        "D) Criptomoedas"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 24,
+      "pergunta": "Uma das maiores vantagens dos fundos imobiliários (FIIs) é:",
+      "opcoes": [
+        "A) Rentabilidade garantida",
+        "B) Isenção de IR sobre dividendos para pessoas físicas",
+        "C) Risco zero",
+        "D) Juros compostos automáticos"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 25,
+      "pergunta": "Qual estratégia ajuda a evitar compras por impulso?",
+      "opcoes": [
+        "A) Usar apenas crédito rotativo",
+        "B) Esperar 24 horas antes de decidir a compra",
+        "C) Parcelar sempre",
+        "D) Comprar sem planejar"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 26,
+      "pergunta": "O que é inflação?",
+      "opcoes": [
+        "A) Aumento do salário real",
+        "B) Redução do valor da moeda",
+        "C) Crescimento da economia",
+        "D) Alta da taxa Selic"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 27,
+      "pergunta": "Qual destes gastos é considerado supérfluo?",
+      "opcoes": [
+        "A) Conta de luz",
+        "B) Plano de saúde",
+        "C) Assinatura de streaming",
+        "D) Alimentação básica"
+      ],
+      "resposta": "C",
+      "peso": 2
+    },
+    {
+      "id": 28,
+      "pergunta": "Qual é o impacto do pagamento apenas do valor mínimo da fatura do cartão?",
+      "opcoes": [
+        "A) Reduz a dívida",
+        "B) Gera cobrança de juros rotativos",
+        "C) Elimina o saldo devedor",
+        "D) Aumenta o limite disponível"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 29,
+      "pergunta": "Qual destes é exemplo de renda ativa?",
+      "opcoes": [
+        "A) Dividendos de ações",
+        "B) Aluguel de imóvel",
+        "C) Salário do emprego",
+        "D) Juros sobre investimento"
+      ],
+      "resposta": "C",
+      "peso": 2
+    },
+    {
+      "id": 30,
+      "pergunta": "Qual é a principal função do Banco Central do Brasil?",
+      "opcoes": [
+        "A) Regular o comércio exterior",
+        "B) Controlar a inflação e política monetária",
+        "C) Definir impostos federais",
+        "D) Administrar fundos de pensão"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 31,
+      "pergunta": "Qual o melhor momento para começar a investir?",
+      "opcoes": [
+        "A) Quando se atingir a aposentadoria",
+        "B) Quando sobrar muito dinheiro",
+        "C) O quanto antes, mesmo com pouco valor",
+        "D) Apenas após quitar todas as despesas supérfluas"
+      ],
+      "resposta": "C",
+      "peso": 2
+    },
+    {
+      "id": 32,
+      "pergunta": "O que significa “educação financeira”?",
+      "opcoes": [
+        "A) Conhecer apenas investimentos",
+        "B) Saber ganhar muito dinheiro",
+        "C) Aprender a administrar recursos pessoais",
+        "D) Evitar impostos"
+      ],
+      "resposta": "C",
+      "peso": 2
+    },
+    {
+      "id": 33,
+      "pergunta": "Qual destes é considerado um investimento de maior risco?",
+      "opcoes": [
+        "A) CDB",
+        "B) Tesouro Selic",
+        "C) Poupança",
+        "D) Ações"
+      ],
+      "resposta": "D",
+      "peso": 2
+    },
+    {
+      "id": 34,
+      "pergunta": "O que significa a expressão “viver de renda”?",
+      "opcoes": [
+        "A) Trabalhar apenas em meio período",
+        "B) Depender exclusivamente do salário",
+        "C) Manter padrão de vida com rendimentos de investimentos",
+        "D) Viver sem nenhuma fonte de recursos"
+      ],
+      "resposta": "C",
+      "peso": 2
+    },
+    {
+      "id": 35,
+      "pergunta": "Qual é a vantagem do pagamento à vista em dinheiro?",
+      "opcoes": [
+        "A) Aumento de dívidas",
+        "B) Possibilidade de desconto",
+        "C) Perda do valor no tempo",
+        "D) Falta de controle dos gastos"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 36,
+      "pergunta": "O que é consumo consciente?",
+      "opcoes": [
+        "A) Comprar tudo o que se deseja",
+        "B) Evitar dívidas e avaliar a real necessidade da compra",
+        "C) Gastar apenas com supérfluos",
+        "D) Comprar sempre em parcelas"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 37,
+      "pergunta": "Qual investimento é protegido pelo FGC (Fundo Garantidor de Créditos)?",
+      "opcoes": [
+        "A) Ações",
+        "B) Tesouro Direto",
+        "C) CDB de banco",
+        "D) Criptomoedas"
+      ],
+      "resposta": "C",
+      "peso": 2
+    },
+    {
+      "id": 38,
+      "pergunta": "Qual desses fatores NÃO contribui para o endividamento?",
+      "opcoes": [
+        "A) Gastar mais do que se ganha",
+        "B) Uso frequente do crédito rotativo",
+        "C) Falta de planejamento financeiro",
+        "D) Investir em renda fixa"
+      ],
+      "resposta": "D",
+      "peso": 2
+    },
+    {
+      "id": 39,
+      "pergunta": "O que é amortização em um financiamento?",
+      "opcoes": [
+        "A) Pagamento apenas dos juros",
+        "B) Redução do saldo devedor",
+        "C) Aumento do valor da dívida",
+        "D) Cobrança de tarifas extras"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 40,
+      "pergunta": "Qual a principal característica da previdência privada?",
+      "opcoes": [
+        "A) É um seguro de carro",
+        "B) Complementa a aposentadoria pública",
+        "C) Não tem custos",
+        "D) É obrigatória para todos os brasileiros"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 41,
+      "pergunta": "Qual destes é considerado um gasto fixo?",
+      "opcoes": [
+        "A) Conta de água",
+        "B) Cinema",
+        "C) Restaurante",
+        "D) Compras de roupas"
+      ],
+      "resposta": "A",
+      "peso": 2
+    },
+    {
+      "id": 42,
+      "pergunta": "Se a inflação sobe e seu salário não aumenta, o que acontece?",
+      "opcoes": [
+        "A) Aumento do poder de compra",
+        "B) Redução do poder de compra",
+        "C) Aumento da renda passiva",
+        "D) Nenhuma alteração"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 43,
+      "pergunta": "Qual destes é um exemplo de investimento de longo prazo?",
+      "opcoes": [
+        "A) Comprar um café diário",
+        "B) Tesouro IPCA+",
+        "C) Cheque especial",
+        "D) Cartão de crédito"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 44,
+      "pergunta": "Qual a principal diferença entre débito e crédito no cartão?",
+      "opcoes": [
+        "A) Débito paga à vista; crédito paga posteriormente",
+        "B) Débito sempre tem juros; crédito nunca",
+        "C) Crédito só serve para saques",
+        "D) Não existe diferença"
+      ],
+      "resposta": "A",
+      "peso": 2
+    },
+    {
+      "id": 45,
+      "pergunta": "Qual é o risco de investir todo o dinheiro em uma única ação?",
+      "opcoes": [
+        "A) Diversificação maior",
+        "B) Rentabilidade garantida",
+        "C) Alto risco de perda",
+        "D) Isenção de IR"
+      ],
+      "resposta": "C",
+      "peso": 2
+    },
+    {
+      "id": 46,
+      "pergunta": "Qual é a recomendação para montar um fundo de emergência?",
+      "opcoes": [
+        "A) Aplicar em renda variável de alto risco",
+        "B) Aplicar em renda fixa com liquidez diária",
+        "C) Guardar em dinheiro vivo em casa",
+        "D) Depositar apenas em conta corrente"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 47,
+      "pergunta": "Qual destes NÃO é considerado investimento?",
+      "opcoes": [
+        "A) Ações",
+        "B) Tesouro Direto",
+        "C) Empréstimo consignado",
+        "D) Fundos imobiliários"
+      ],
+      "resposta": "C",
+      "peso": 2
+    },
+    {
+      "id": 48,
+      "pergunta": "Qual é a importância de se ter metas financeiras?",
+      "opcoes": [
+        "A) Facilitar compras por impulso",
+        "B) Dar direção ao planejamento e investimentos",
+        "C) Reduzir o salário líquido",
+        "D) Impedir qualquer tipo de gasto"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 49,
+      "pergunta": "O que significa taxa de administração em fundos de investimento?",
+      "opcoes": [
+        "A) Imposto obrigatório do governo",
+        "B) Custo cobrado pelo gestor para administrar o fundo",
+        "C) Juros cobrados pelo banco",
+        "D) Valor pago para abrir conta"
+      ],
+      "resposta": "B",
+      "peso": 2
+    },
+    {
+      "id": 50,
+      "pergunta": "Qual é o principal objetivo da educação financeira?",
+      "opcoes": [
+        "A) Tornar-se milionário rapidamente",
+        "B) Gerenciar bem os recursos para qualidade de vida",
+        "C) Evitar pagamento de impostos",
+        "D) Comprar o máximo de bens possível"
+      ],
+      "resposta": "B",
+      "peso": 2
+    }
+  ],
+  "dificil": [
+    {
+      "id": 1,
+      "pergunta": "No contexto de valuation, o método Fluxo de Caixa Descontado (FCD) depende criticamente de:",
+      "opcoes": [
+        "A) Taxa Selic atual.",
+        "B) Estimativas de dividendos futuros.",
+        "C) Taxa de desconto e projeções de fluxo de caixa.",
+        "D) Preço-alvo definido por analistas."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 2,
+      "pergunta": "O risco sistemático em investimentos é aquele que:",
+      "opcoes": [
+        "A) Pode ser eliminado por diversificação.",
+        "B) Está associado a eventos de mercado amplos e não pode ser diversificado.",
+        "C) Refere-se apenas a falhas de gestão de uma empresa.",
+        "D) É calculado apenas pelo Índice Sharpe."
+      ],
+      "resposta": "B",
+      "peso": 3
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual métrica mede a sensibilidade de um título de renda fixa às variações da taxa de juros?",
+      "opcoes": [
+        "A) Duration modificada",
+        "B) Payback",
+        "C) ROE",
+        "D) Alavancagem financeira"
+      ],
+      "resposta": "A",
+      "peso": 3
+    },
+    {
+      "id": 4,
+      "pergunta": "O Beta em finanças representa:",
+      "opcoes": [
+        "A) O retorno esperado de um ativo livre de risco.",
+        "B) A volatilidade total de um ativo.",
+        "C) A correlação entre um ativo e o mercado, ajustada pelo risco.",
+        "D) O índice de liquidez de curto prazo."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 5,
+      "pergunta": "No Brasil, os rendimentos de aplicações em Tesouro Direto prefixado sofrem tributação de:",
+      "opcoes": [
+        "A) Alíquota fixa de 20%",
+        "B) Tabela regressiva do IR",
+        "C) Isenção de IR para pessoa física",
+        "D) Apenas IOF"
+      ],
+      "resposta": "B",
+      "peso": 3
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual indicador mede o retorno excedente de um ativo em relação ao risco assumido?",
+      "opcoes": [
+        "A) Índice Sharpe",
+        "B) Índice de liquidez corrente",
+        "C) Taxa Interna de Retorno",
+        "D) Duration"
+      ],
+      "resposta": "A",
+      "peso": 3
+    },
+    {
+      "id": 7,
+      "pergunta": "A teoria de Markowitz está relacionada a:",
+      "opcoes": [
+        "A) Maximização de dividendos.",
+        "B) Diversificação ótima de portfólio.",
+        "C) Precificação de opções.",
+        "D) Análise de liquidez."
+      ],
+      "resposta": "B",
+      "peso": 3
+    },
+    {
+      "id": 8,
+      "pergunta": "No modelo CAPM, o retorno esperado de um ativo depende de:",
+      "opcoes": [
+        "A) Alavancagem da empresa.",
+        "B) Risco específico.",
+        "C) Taxa livre de risco, beta e prêmio de mercado.",
+        "D) Dividend yield."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 9,
+      "pergunta": "O conceito de 'custo de oportunidade' implica que:",
+      "opcoes": [
+        "A) Todo investimento tem retorno garantido.",
+        "B) O custo está apenas no capital investido.",
+        "C) Escolher um investimento implica abrir mão do retorno de outro.",
+        "D) Está restrito a ativos de renda fixa."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 10,
+      "pergunta": "O 'hedge' com derivativos é utilizado principalmente para:",
+      "opcoes": [
+        "A) Aumentar riscos de mercado.",
+        "B) Eliminar custos operacionais.",
+        "C) Reduzir ou neutralizar riscos de mercado.",
+        "D) Gerar ganhos sem risco."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 11,
+      "pergunta": "Qual indicador mede o retorno excedente de um ativo em relação ao risco assumido?",
+      "opcoes": [
+        "A) Índice Sharpe",
+        "B) Índice de liquidez corrente",
+        "C) Taxa Interna de Retorno",
+        "D) Duration"
+      ],
+      "resposta": "A",
+      "peso": 3
+    },
+    {
+      "id": 12,
+      "pergunta": "A teoria de Markowitz está relacionada a:",
+      "opcoes": [
+        "A) Maximização de dividendos.",
+        "B) Diversificação ótima de portfólio.",
+        "C) Precificação de opções.",
+        "D) Análise de liquidez."
+      ],
+      "resposta": "B",
+      "peso": 3
+    },
+    {
+      "id": 13,
+      "pergunta": "No modelo CAPM, o retorno esperado de um ativo depende de:",
+      "opcoes": [
+        "A) Alavancagem da empresa.",
+        "B) Risco específico.",
+        "C) Taxa livre de risco, beta e prêmio de mercado.",
+        "D) Dividend yield."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 14,
+      "pergunta": "O conceito de 'custo de oportunidade' implica que:",
+      "opcoes": [
+        "A) Todo investimento tem retorno garantido.",
+        "B) O custo está apenas no capital investido.",
+        "C) Escolher um investimento implica abrir mão do retorno de outro.",
+        "D) Está restrito a ativos de renda fixa."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 15,
+      "pergunta": "O 'hedge' com derivativos é utilizado principalmente para:",
+      "opcoes": [
+        "A) Aumentar riscos de mercado.",
+        "B) Eliminar custos operacionais.",
+        "C) Reduzir ou neutralizar riscos de mercado.",
+        "D) Gerar ganhos sem risco."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 16,
+      "pergunta": "Qual indicador mede o retorno excedente de um ativo em relação ao risco assumido?",
+      "opcoes": [
+        "A) Índice Sharpe",
+        "B) Índice de liquidez corrente",
+        "C) Taxa Interna de Retorno",
+        "D) Duration"
+      ],
+      "resposta": "A",
+      "peso": 3
+    },
+    {
+      "id": 17,
+      "pergunta": "A teoria de Markowitz está relacionada a:",
+      "opcoes": [
+        "A) Maximização de dividendos.",
+        "B) Diversificação ótima de portfólio.",
+        "C) Precificação de opções.",
+        "D) Análise de liquidez."
+      ],
+      "resposta": "B",
+      "peso": 3
+    },
+    {
+      "id": 18,
+      "pergunta": "No modelo CAPM, o retorno esperado de um ativo depende de:",
+      "opcoes": [
+        "A) Alavancagem da empresa.",
+        "B) Risco específico.",
+        "C) Taxa livre de risco, beta e prêmio de mercado.",
+        "D) Dividend yield."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 19,
+      "pergunta": "O conceito de 'custo de oportunidade' implica que:",
+      "opcoes": [
+        "A) Todo investimento tem retorno garantido.",
+        "B) O custo está apenas no capital investido.",
+        "C) Escolher um investimento implica abrir mão do retorno de outro.",
+        "D) Está restrito a ativos de renda fixa."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 20,
+      "pergunta": "O 'hedge' com derivativos é utilizado principalmente para:",
+      "opcoes": [
+        "A) Aumentar riscos de mercado.",
+        "B) Eliminar custos operacionais.",
+        "C) Reduzir ou neutralizar riscos de mercado.",
+        "D) Gerar ganhos sem risco."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 21,
+      "pergunta": "Qual indicador mede o retorno excedente de um ativo em relação ao risco assumido?",
+      "opcoes": [
+        "A) Índice Sharpe",
+        "B) Índice de liquidez corrente",
+        "C) Taxa Interna de Retorno",
+        "D) Duration"
+      ],
+      "resposta": "A",
+      "peso": 3
+    },
+    {
+      "id": 22,
+      "pergunta": "A teoria de Markowitz está relacionada a:",
+      "opcoes": [
+        "A) Maximização de dividendos.",
+        "B) Diversificação ótima de portfólio.",
+        "C) Precificação de opções.",
+        "D) Análise de liquidez."
+      ],
+      "resposta": "B",
+      "peso": 3
+    },
+    {
+      "id": 23,
+      "pergunta": "No modelo CAPM, o retorno esperado de um ativo depende de:",
+      "opcoes": [
+        "A) Alavancagem da empresa.",
+        "B) Risco específico.",
+        "C) Taxa livre de risco, beta e prêmio de mercado.",
+        "D) Dividend yield."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 24,
+      "pergunta": "O conceito de 'custo de oportunidade' implica que:",
+      "opcoes": [
+        "A) Todo investimento tem retorno garantido.",
+        "B) O custo está apenas no capital investido.",
+        "C) Escolher um investimento implica abrir mão do retorno de outro.",
+        "D) Está restrito a ativos de renda fixa."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 25,
+      "pergunta": "O 'hedge' com derivativos é utilizado principalmente para:",
+      "opcoes": [
+        "A) Aumentar riscos de mercado.",
+        "B) Eliminar custos operacionais.",
+        "C) Reduzir ou neutralizar riscos de mercado.",
+        "D) Gerar ganhos sem risco."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 26,
+      "pergunta": "Qual indicador mede o retorno excedente de um ativo em relação ao risco assumido?",
+      "opcoes": [
+        "A) Índice Sharpe",
+        "B) Índice de liquidez corrente",
+        "C) Taxa Interna de Retorno",
+        "D) Duration"
+      ],
+      "resposta": "A",
+      "peso": 3
+    },
+    {
+      "id": 27,
+      "pergunta": "A teoria de Markowitz está relacionada a:",
+      "opcoes": [
+        "A) Maximização de dividendos.",
+        "B) Diversificação ótima de portfólio.",
+        "C) Precificação de opções.",
+        "D) Análise de liquidez."
+      ],
+      "resposta": "B",
+      "peso": 3
+    },
+    {
+      "id": 28,
+      "pergunta": "No modelo CAPM, o retorno esperado de um ativo depende de:",
+      "opcoes": [
+        "A) Alavancagem da empresa.",
+        "B) Risco específico.",
+        "C) Taxa livre de risco, beta e prêmio de mercado.",
+        "D) Dividend yield."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 29,
+      "pergunta": "O conceito de 'custo de oportunidade' implica que:",
+      "opcoes": [
+        "A) Todo investimento tem retorno garantido.",
+        "B) O custo está apenas no capital investido.",
+        "C) Escolher um investimento implica abrir mão do retorno de outro.",
+        "D) Está restrito a ativos de renda fixa."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 30,
+      "pergunta": "O 'hedge' com derivativos é utilizado principalmente para:",
+      "opcoes": [
+        "A) Aumentar riscos de mercado.",
+        "B) Eliminar custos operacionais.",
+        "C) Reduzir ou neutralizar riscos de mercado.",
+        "D) Gerar ganhos sem risco."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 31,
+      "pergunta": "Qual indicador mede o retorno excedente de um ativo em relação ao risco assumido?",
+      "opcoes": [
+        "A) Índice Sharpe",
+        "B) Índice de liquidez corrente",
+        "C) Taxa Interna de Retorno",
+        "D) Duration"
+      ],
+      "resposta": "A",
+      "peso": 3
+    },
+    {
+      "id": 32,
+      "pergunta": "A teoria de Markowitz está relacionada a:",
+      "opcoes": [
+        "A) Maximização de dividendos.",
+        "B) Diversificação ótima de portfólio.",
+        "C) Precificação de opções.",
+        "D) Análise de liquidez."
+      ],
+      "resposta": "B",
+      "peso": 3
+    },
+    {
+      "id": 33,
+      "pergunta": "No modelo CAPM, o retorno esperado de um ativo depende de:",
+      "opcoes": [
+        "A) Alavancagem da empresa.",
+        "B) Risco específico.",
+        "C) Taxa livre de risco, beta e prêmio de mercado.",
+        "D) Dividend yield."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 34,
+      "pergunta": "O conceito de 'custo de oportunidade' implica que:",
+      "opcoes": [
+        "A) Todo investimento tem retorno garantido.",
+        "B) O custo está apenas no capital investido.",
+        "C) Escolher um investimento implica abrir mão do retorno de outro.",
+        "D) Está restrito a ativos de renda fixa."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 35,
+      "pergunta": "O 'hedge' com derivativos é utilizado principalmente para:",
+      "opcoes": [
+        "A) Aumentar riscos de mercado.",
+        "B) Eliminar custos operacionais.",
+        "C) Reduzir ou neutralizar riscos de mercado.",
+        "D) Gerar ganhos sem risco."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 36,
+      "pergunta": "Qual indicador mede o retorno excedente de um ativo em relação ao risco assumido?",
+      "opcoes": [
+        "A) Índice Sharpe",
+        "B) Índice de liquidez corrente",
+        "C) Taxa Interna de Retorno",
+        "D) Duration"
+      ],
+      "resposta": "A",
+      "peso": 3
+    },
+    {
+      "id": 37,
+      "pergunta": "A teoria de Markowitz está relacionada a:",
+      "opcoes": [
+        "A) Maximização de dividendos.",
+        "B) Diversificação ótima de portfólio.",
+        "C) Precificação de opções.",
+        "D) Análise de liquidez."
+      ],
+      "resposta": "B",
+      "peso": 3
+    },
+    {
+      "id": 38,
+      "pergunta": "No modelo CAPM, o retorno esperado de um ativo depende de:",
+      "opcoes": [
+        "A) Alavancagem da empresa.",
+        "B) Risco específico.",
+        "C) Taxa livre de risco, beta e prêmio de mercado.",
+        "D) Dividend yield."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 39,
+      "pergunta": "O conceito de 'custo de oportunidade' implica que:",
+      "opcoes": [
+        "A) Todo investimento tem retorno garantido.",
+        "B) O custo está apenas no capital investido.",
+        "C) Escolher um investimento implica abrir mão do retorno de outro.",
+        "D) Está restrito a ativos de renda fixa."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 40,
+      "pergunta": "O 'hedge' com derivativos é utilizado principalmente para:",
+      "opcoes": [
+        "A) Aumentar riscos de mercado.",
+        "B) Eliminar custos operacionais.",
+        "C) Reduzir ou neutralizar riscos de mercado.",
+        "D) Gerar ganhos sem risco."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 41,
+      "pergunta": "Qual indicador mede o retorno excedente de um ativo em relação ao risco assumido?",
+      "opcoes": [
+        "A) Índice Sharpe",
+        "B) Índice de liquidez corrente",
+        "C) Taxa Interna de Retorno",
+        "D) Duration"
+      ],
+      "resposta": "A",
+      "peso": 3
+    },
+    {
+      "id": 42,
+      "pergunta": "A teoria de Markowitz está relacionada a:",
+      "opcoes": [
+        "A) Maximização de dividendos.",
+        "B) Diversificação ótima de portfólio.",
+        "C) Precificação de opções.",
+        "D) Análise de liquidez."
+      ],
+      "resposta": "B",
+      "peso": 3
+    },
+    {
+      "id": 43,
+      "pergunta": "No modelo CAPM, o retorno esperado de um ativo depende de:",
+      "opcoes": [
+        "A) Alavancagem da empresa.",
+        "B) Risco específico.",
+        "C) Taxa livre de risco, beta e prêmio de mercado.",
+        "D) Dividend yield."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 44,
+      "pergunta": "O conceito de 'custo de oportunidade' implica que:",
+      "opcoes": [
+        "A) Todo investimento tem retorno garantido.",
+        "B) O custo está apenas no capital investido.",
+        "C) Escolher um investimento implica abrir mão do retorno de outro.",
+        "D) Está restrito a ativos de renda fixa."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 45,
+      "pergunta": "O 'hedge' com derivativos é utilizado principalmente para:",
+      "opcoes": [
+        "A) Aumentar riscos de mercado.",
+        "B) Eliminar custos operacionais.",
+        "C) Reduzir ou neutralizar riscos de mercado.",
+        "D) Gerar ganhos sem risco."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 46,
+      "pergunta": "Qual indicador mede o retorno excedente de um ativo em relação ao risco assumido?",
+      "opcoes": [
+        "A) Índice Sharpe",
+        "B) Índice de liquidez corrente",
+        "C) Taxa Interna de Retorno",
+        "D) Duration"
+      ],
+      "resposta": "A",
+      "peso": 3
+    },
+    {
+      "id": 47,
+      "pergunta": "A teoria de Markowitz está relacionada a:",
+      "opcoes": [
+        "A) Maximização de dividendos.",
+        "B) Diversificação ótima de portfólio.",
+        "C) Precificação de opções.",
+        "D) Análise de liquidez."
+      ],
+      "resposta": "B",
+      "peso": 3
+    },
+    {
+      "id": 48,
+      "pergunta": "No modelo CAPM, o retorno esperado de um ativo depende de:",
+      "opcoes": [
+        "A) Alavancagem da empresa.",
+        "B) Risco específico.",
+        "C) Taxa livre de risco, beta e prêmio de mercado.",
+        "D) Dividend yield."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 49,
+      "pergunta": "O conceito de 'custo de oportunidade' implica que:",
+      "opcoes": [
+        "A) Todo investimento tem retorno garantido.",
+        "B) O custo está apenas no capital investido.",
+        "C) Escolher um investimento implica abrir mão do retorno de outro.",
+        "D) Está restrito a ativos de renda fixa."
+      ],
+      "resposta": "C",
+      "peso": 3
+    },
+    {
+      "id": 50,
+      "pergunta": "O 'hedge' com derivativos é utilizado principalmente para:",
+      "opcoes": [
+        "A) Aumentar riscos de mercado.",
+        "B) Eliminar custos operacionais.",
+        "C) Reduzir ou neutralizar riscos de mercado.",
+        "D) Gerar ganhos sem risco."
+      ],
+      "resposta": "C",
+      "peso": 3
+    }
+  ]
+}

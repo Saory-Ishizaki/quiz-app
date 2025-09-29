@@ -1,0 +1,29 @@
+/* src/components/CoinRain.css */
+.coin-rain {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none; /* não atrapalha clique */
+  overflow: hidden;
+}
+
+.coin {
+  position: absolute;
+  top: -50px;
+  font-size: 2rem;
+  animation-name: fall;
+  animation-timing-function: linear;
+}
+
+@keyframes fall {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100vh) rotate(360deg);
+    opacity: 0;
+  }
+}

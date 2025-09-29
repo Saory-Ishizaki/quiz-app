@@ -1,0 +1,117 @@
+/* src/index.css */
+body {
+  background: linear-gradient(135deg, #004d00, #0a0a0a);
+  color: #fff;
+  font-family: "Trebuchet MS", sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  padding: 20px;
+}
+
+.game-title {
+  font-size: 3rem;
+  color: gold;
+  text-shadow: 2px 2px 8px #000;
+  border: 3px solid gold;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 12px;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  color: yellow;
+  font-size: 1.3rem;
+  margin-bottom: 20px;
+}
+
+.welcome-screen input {
+  padding: 10px;
+  font-size: 1rem;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  background: gold;
+  color: #000;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ffd700;
+}
+
+.status-bar {
+  margin: 15px 0;
+}
+
+.question-card {
+  background: rgba(0, 50, 0, 0.8);
+  padding: 20px;
+  border-radius: 12px;
+  display: inline-block;
+  max-width: 600px;
+  width: 100%;
+}
+
+.question-card ul {
+  list-style: none;
+  padding: 0;
+}
+
+.option {
+  background: #222;
+  margin: 8px 0;
+  padding: 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.option:hover {
+  background: #444;
+}
+
+.option.correct {
+  background: green;
+  color: #fff;
+}
+
+.option.wrong {
+  background: red;
+  color: #fff;
+}
+
+.next-btn {
+  margin-top: 15px;
+}
+
+.ranking-board {
+  margin-top: 30px;
+  background: rgba(0, 60, 0, 0.9);
+  padding: 20px;
+  border-radius: 12px;
+  display: inline-block;
+}
+
+.ranking-board table {
+  width: 100%;
+  color: gold;
+  border-collapse: collapse;
+}
+
+.ranking-board th, .ranking-board td {
+  border: 1px solid gold;
+  padding: 8px;
+}
+
+
